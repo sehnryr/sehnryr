@@ -13,6 +13,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 ---
 ### 🌐 Social networks :
 <a href="https://discord.com"><img height="20" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"/></a> : <code>Sehn#0001</code><br />
+<a href="https://www.reddit.com/user/Sehnryr"><img height="20" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"/></a> : <code>Sehnryr</code><br />
 <a href="https://www.instagram.com/sehnryr/"><img height="20" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png"/></a> : <code>sehnryr</code><br />
 
 ### 🛠 Languages and tools :
