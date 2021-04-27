@@ -29,3 +29,5 @@ If you like what I do and you want to support me you can buy me a beer :)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sehnryr&include_all_commits=true&show_icons=true&bg_color=20,FF8F00,755532,222732&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehnryr&layout=compact&bg_color=20,FF8F00,755532,222732&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: Most used languages doesn't indicate my skill level or anything, it's a github measure of which languages I have the most code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
