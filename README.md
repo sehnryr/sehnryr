@@ -14,7 +14,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 ### 🛠 Languages and tools :
 
 <a href="https://www.python.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></code></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/></code></a>
+<a href="http://www.open-std.org/jtc1/sc22/wg14/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/></code></a>
 <a href="https://flutter.dev/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"/></code></a>
 <a href="https://nginx.org/en/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"/></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/></code></a>
