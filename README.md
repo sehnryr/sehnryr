@@ -4,9 +4,13 @@ I'm Youn MÉLOIS, a french student in engineering school with a major in compute
 
 And I'm doing thingy things with my hands, mostly debugging code that doesn't work and drinking carrot juice.
 
+<br />
+
 - 🌱 I'm currently learning React and PHP
 - 💬 Ask me about anything [here](https://github.com/Sehnryr/Sehnryr/issues)
 
+
+---
 ### 🛠 Languages and tools :
 
 <a href="https://www.python.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></code></a>
