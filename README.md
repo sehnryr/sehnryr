@@ -1,4 +1,4 @@
-# Hello there, I'm [Youn](https://melois.eu)! 👋
+# Hello there, I'm [Youn](https://melois.dev)! 👋
 
 I'm Youn MÉLOIS, a french student in engineering school with a major in computer science.
 
