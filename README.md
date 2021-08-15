@@ -7,7 +7,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 <br />
 
 - 🌱 I'm currently learning React and PHP
-- 💬 Ask me about anything [here](https://github.com/Sehnryr/Sehnryr/issues)
+- 💬 Ask me about anything [here](https://github.com/sehnryr/sehnryr/issues)
 
 
 ---
