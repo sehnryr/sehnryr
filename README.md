@@ -28,7 +28,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 ### 📊 Stats :
 ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sehnryr&include_all_commits=true&show_icons=true&bg_color=3,FF9E00,FF8F00,FF8F0000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sehnryr&include_all_commits=true&show_icons=true&bg_color=3,FF9E00,FF8F00,FF8F0000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&enable_experiments=new_ranking_system)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehnryr&layout=compact&bg_color=3,FF9E00,FF8F00,FF8F0000&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
