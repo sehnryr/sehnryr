@@ -1,6 +1,6 @@
 # Hello there, I'm [Youn](https://melois.dev)! 👋
 
-I'm Youn MÉLOIS, a french student in engineering school with a major in computer science.
+I'm Youn MÉLOIS, a French student in engineering school with a major in computer science.
 
 And I'm doing thingy things with my hands, mostly debugging code that doesn't work and drinking carrot juice.
 
