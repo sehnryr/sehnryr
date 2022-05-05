@@ -6,7 +6,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 
 <br />
 
-- 🌱 I'm currently learning React and PHP
+- 🌱 I'm currently learning React, PHP and Qt
 - 💬 Ask me about anything [here](https://github.com/sehnryr/sehnryr/issues)
 
 
