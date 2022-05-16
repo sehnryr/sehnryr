@@ -1,35 +1,34 @@
+[![Discord](https://img.shields.io/badge/Sehn%230001-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![Reddit](https://img.shields.io/badge/Sehnryr-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sehnryr)
+[![Steam](https://img.shields.io/badge/sehnryr-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/sehnryr/)
+[![Instagram](https://img.shields.io/badge/sehnryr-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sehnryr/)
+[![Twitter](https://img.shields.io/badge/sehnryr-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sehnryr)
+
 # Hello there, I'm [Youn](https://melois.dev)! 👋
 
 I'm Youn Mélois, a French student in engineering school with a major in computer science.
 
 And I'm doing thingy things with my hands, mostly debugging code that doesn't work and drinking carrot juice.
 
-<br />
-
 - 🌱 I'm currently learning React, PHP and Qt
 - 💬 Ask me about anything [here](https://github.com/sehnryr/sehnryr/issues)
 
 
 ---
-### 🌐 Social networks :
-<a href="https://discord.com"><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png"/></a> : <code>Sehn#0001</code><br />
-<a href="https://www.reddit.com/user/Sehnryr"><img width="20" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"/></a> : <code>Sehnryr</code><br />
-<a href="https://steamcommunity.com/id/sehnryr/"><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/steam/steam.png"/></a> : <code>sehnryr</code><br />
-<a href="https://www.instagram.com/sehnryr/"><img width="20" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png"/></a> : <code>sehnryr</code><br />
-<a href="https://twitter.com/sehnryr"><img width="20" src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png"/></a> : <code>sehnryr</code><br />
-
 ### 🛠 Languages and tools :
-<a href="https://www.python.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></code></a>
-<a href="http://www.open-std.org/jtc1/sc22/wg14/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/></code></a>
-<a href="https://isocpp.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/></code></a>
-<a href="https://dart.dev/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"/></code></a>
-<a href="https://flutter.dev/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"/></code></a>
-<a href="https://nginx.org/en/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"/></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/></code></a>
-<a href="https://www.php.net/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"/></code></a>
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/en/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ### 📊 Stats :
-![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green)
+<!-- ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green) -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sehnryr&include_all_commits=true&show_icons=true&bg_color=3,3fb950,26a641,26a64100&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&enable_experiments=new_ranking_system)](https://github.com/anuraghazra/github-readme-stats)
 
