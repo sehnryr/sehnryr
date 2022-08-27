@@ -40,7 +40,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-*NOTE: The badges on my profile are not placed in a specific order, which means that my level in one tool or another is not related to the order in which I placed the badges.*
+<sup><sub>P.S: The badges on my profile are not placed in a specific order, which means that my level in one tool or another is not related to the order in which I placed the badges.</sub></sup>
 
 ### 📊 Stats :
 <!-- ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green) -->
@@ -49,7 +49,7 @@ And I'm doing thingy things with my hands, mostly debugging code that doesn't wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehnryr&count_private=true&layout=compact&bg_color=3,3fb950,26a641,26a64100&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-*NOTE: Most used languages doesn't indicate my skill level or anything, it's a github measure of which languages I have the most code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<sup><sub>P.S: Most used languages doesn't indicate my skill level or anything, it's a github measure of which languages I have the most code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub></sup>
 
 ### 🍻 Support :
 
