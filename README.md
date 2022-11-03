@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/Sehn%230001-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/230563291146092545)
 [![Reddit](https://img.shields.io/badge/Sehnryr-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sehnryr)
-[![Twitter](https://img.shields.io/badge/sehnryr-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sehnryr)
+[![Twitter](https://img.shields.io/badge/@Sehnryr-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sehnryr)
 [![Protonmail](https://img.shields.io/badge/youn@melois.dev-%23a692ff?style=flat&logo=protonmail&logoColor=white)](mailto:youn@melois.dev)
 <!-- [![Steam](https://img.shields.io/badge/sehnryr-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/sehnryr/) -->
 <!-- [![Instagram](https://img.shields.io/badge/sehnryr-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sehnryr/) -->
