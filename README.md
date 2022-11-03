@@ -2,6 +2,7 @@
 [![Reddit](https://img.shields.io/badge/Sehnryr-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sehnryr)
 [![Twitter](https://img.shields.io/badge/@Sehnryr-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sehnryr)
 [![Protonmail](https://img.shields.io/badge/youn@melois.dev-%23a692ff?style=flat&logo=protonmail&logoColor=white)](mailto:youn@melois.dev)
+[![LinkedIn](https://img.shields.io/badge/Youn%20Mélois-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youn-m%C3%A9lois-023bb61b2/)
 <!-- [![Steam](https://img.shields.io/badge/sehnryr-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/sehnryr/) -->
 <!-- [![Instagram](https://img.shields.io/badge/sehnryr-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sehnryr/) -->
 
