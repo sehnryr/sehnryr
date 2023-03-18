@@ -8,9 +8,7 @@
 
 # Hello there, I'm [Youn](https://melois.dev)! 👋
 
-I'm Youn Mélois, a French student in engineering school with a major in computer science.
-
-And I'm doing thingy things with my hands, mostly debugging code that doesn't work and drinking carrot juice.
+I'm Youn Mélois, a French student in computer science and I like programming and reverse-engineering 😄
 
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about anything [here](https://github.com/sehnryr/sehnryr/issues)
