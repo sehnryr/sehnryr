@@ -68,5 +68,6 @@ I'm Youn Mélois, a French student in computer science and I like programming an
 
 If you really do like my work and you want to support me you can tip me there :
 
-[![Paypal Donate](https://shields.io/badge/donate-Paypal.me-blue)](https://paypal.me/ynmls)
-[![Buy Me a Coffee](https://shields.io/badge/donate-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/Sehnryr)
+[![GitHub Sponsors](https://img.shields.io/badge/donate-Github%20Sponsors-d46c94)](https://github.com/sponsors/sehnryr)
+<!-- [![Paypal Donate](https://shields.io/badge/donate-Paypal.me-blue)](https://paypal.me/ynmls) -->
+<!-- [![Buy Me a Coffee](https://shields.io/badge/donate-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/Sehnryr) -->
