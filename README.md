@@ -51,7 +51,7 @@ I'm Youn Mélois, a French student in computer science and I like programming an
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-> **Note**:
+> [!NOTE]
 > The badges on my profile are not placed in a specific order, which means that my level in one tool or another is not related to the order in which I placed the badges.
 
 ### 📊 Stats :
@@ -60,7 +60,7 @@ I'm Youn Mélois, a French student in computer science and I like programming an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehnryr&count_private=true&layout=compact&bg_color=2fad45&title_color=fff&text_color=fff&border_color=238636&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
-> **Note**:
+> [!NOTE]
 > Most used languages doesn't indicate my skill level or anything, it's a github measure of which languages I have the most code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🍻 Support :
