@@ -56,9 +56,9 @@ I'm Youn Mélois, a French student in computer science and I like programming an
 
 ### 📊 Stats :
 
-[![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sehnryr&include_all_commits=true&count_private=true&show_icons=true&bg_color=3,3fb950,26a641,26a64100&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sehnryr&include_all_commits=true&count_private=true&show_icons=true&bg_color=2fad45&title_color=fff&text_color=fff&icon_color=fff&border_color=238636&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sehnryr&count_private=true&layout=compact&bg_color=3,3fb950,26a641,26a64100&title_color=fff&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehnryr&count_private=true&layout=compact&bg_color=2fad45&title_color=fff&text_color=fff&border_color=238636&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Note**:
 > Most used languages doesn't indicate my skill level or anything, it's a github measure of which languages I have the most code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
