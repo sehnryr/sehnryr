@@ -1,12 +1,7 @@
-<details>
-  <summary>
-    <a href="https://discord.com/users/230563291146092545"><img alt="Discord" src="https://img.shields.io/badge/sehnryr-%235865F2.svg?style=flat&logo=discord&logoColor=white"></a>
-    <a rel="me" href="https://mastodon.social/@sehnryr"><img alt="Mastodon" src="https://img.shields.io/badge/@sehnryr-%232B90D9?style=flat&logo=mastodon&logoColor=white"></a>
-    <a href="mailto:youn@melois.dev"><img alt="Protonmail" src="https://img.shields.io/badge/youn@melois.dev-%23a692ff?style=flat&logo=protonmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/youn-melois/"><img alt="LinkedIn" src="https://img.shields.io/badge/Youn%20Mélois-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-  </summary>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img alt="View counter" src="https://komarev.com/ghpvc/?username=Sehnryr&color=green"></a>
-</details>
+[![Discord](https://img.shields.io/badge/sehnryr-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/230563291146092545)
+[![Mastodon](https://img.shields.io/badge/@sehnryr-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@sehnryr)
+[![Protonmail](https://img.shields.io/badge/youn@melois.dev-%23a692ff?style=flat&logo=protonmail&logoColor=white)](mailto:youn@melois.dev)
+[![Linkedin](https://img.shields.io/badge/Youn%20Mélois-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youn-melois/)
 
 # Hello there, I'm [Youn](https://melois.dev)! 👋
 
