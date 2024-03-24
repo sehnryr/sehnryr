@@ -1,7 +1,9 @@
+<!--
 [![Discord](https://img.shields.io/badge/sehnryr-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/230563291146092545)
 [![Mastodon](https://img.shields.io/badge/@sehnryr-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@sehnryr)
 [![Protonmail](https://img.shields.io/badge/youn@melois.dev-%23a692ff?style=flat&logo=protonmail&logoColor=white)](mailto:youn@melois.dev)
 [![Linkedin](https://img.shields.io/badge/Youn%20Mélois-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youn-melois/)
+-->
 
 # Hello there, I'm [Youn](https://melois.dev)! 👋
 
