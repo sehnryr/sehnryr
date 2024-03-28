@@ -10,8 +10,7 @@
 I'm Youn Mélois, a French student in computer science and I like programming and reverse-engineering 😄
 
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
-- 💬 Ask me about anything [here](https://github.com/sehnryr/sehnryr/issues)
-
+- 💬 Ask me about anything [here](https://mastodon.social/@sehnryr)
 
 ---
 ### 🛠 Languages and tools :
