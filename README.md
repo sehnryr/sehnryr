@@ -9,8 +9,11 @@
 
 I'm Youn Mélois, a French student in computer science and I like programming and reverse-engineering 😄
 
-- 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
+<!-- - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/) -->
+- 🛠️ I'm currently working with [WebAssembly](https://webassembly.org/)[^1] in [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about anything [here](https://mastodon.social/@sehnryr)
+
+[^1]: [midokuapp/midoku-rs](https://github.com/midokuapp/midoku-rs)
 
 ---
 ### 🛠 Languages and tools :
