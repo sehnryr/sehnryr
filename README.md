@@ -1,6 +1,6 @@
 # Hi, I'm Youn Mélois!
 
-I'm a Fr\*nch Rust developer interested in code optimization and performance.
+I'm a French Rust developer interested in code optimization and performance.
 
 ### 📊 GitHub Metrics
 
